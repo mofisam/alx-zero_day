@@ -1,1 +1,1 @@
-New  zero day readme
+New zero day readme
